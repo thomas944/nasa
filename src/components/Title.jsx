@@ -7,7 +7,8 @@ export const Title = () => {
                 display: 'flex',
                 flexDirection: 'row',
                 justifyContent: 'center',
-                paddingTop:'100px'}}
+                paddingTop:'100px',
+            }}
                 >
                    
                 <h1>Title</h1> 
